@@ -6,8 +6,8 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            //string name = args[0];
-            //Console.WriteLine("Hello World! " + name);
+            string name = args[0];
+            Console.WriteLine("Hello World! " + name);
 
             //foreach (var item in args)
             //{
